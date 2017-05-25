@@ -1,11 +1,11 @@
 # Sample ES6 NPM package 'tyr-test'
 
-# Publish
+## Publish
 ```
 npm publish
 ```
 
-# Test
+## Test
 ```
 cd test
 npm install tyr-test
